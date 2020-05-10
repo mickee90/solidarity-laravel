@@ -1,0 +1,14 @@
+@import url(https://fonts.googleapis.com/css?family=Nunito);.vue-flash-message-block-class {
+  z-index: 999999;
+  width: auto !important;
+  min-width: 10%;
+}
+
+.vue-flash-message-block-class .vue-flash-message-content-class {
+  padding-right: 20px;
+}
+
+.vue-flash-message-block-class .vue-flash-message-content-class h3, .vue-flash-message-block-class .vue-flash-message-content-class p {
+  margin: 0;
+  line-height: 2rem;
+}

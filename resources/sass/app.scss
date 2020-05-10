@@ -1,0 +1,17 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+.vue-flash-message-block-class {
+  z-index: 999999;
+  width: auto !important;
+  min-width: 10%;
+
+  .vue-flash-message-content-class {
+    padding-right: 20px;
+
+    h3, p {
+      margin: 0;
+      line-height: 2rem;
+    }
+  }
+}
